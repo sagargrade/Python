@@ -1,2 +1,2 @@
 # Python
-# Basics of python with examples
+# Learn Python with Example
