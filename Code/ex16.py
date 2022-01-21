@@ -11,7 +11,7 @@ input("?")
 # If you confirm for deletion then open the file.
 print("Opening the file...")
 target = open(filename, 'w')
-# Use truncate() finction to clean up the file.
+# Use truncate() function to clean up the file.
 print("Truncating the file. Goodbye!")
 target.truncate()
 # Now as user to enter some lines
